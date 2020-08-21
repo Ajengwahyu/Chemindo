@@ -1,0 +1,68 @@
+.bottoms-header{
+    width: 100%;
+    height: 100vh;
+    /* background-image: url(img/kimia.png); */
+    background: url('../img/kimia.png') no-repeat 50% 50%;
+}
+.info{
+    color: white;
+    padding-top: 250px;
+    padding-left: 100px;
+}
+.info h4 {
+    font-size: 28px;
+}
+.info h5 {
+    font-size: 17px;
+    font-family: 'Fira Sans', sans-serif;
+}
+.info h6 {
+    font-size: 10px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: lighter;
+}
+.box{
+    margin-top: 30px;
+    width: 110px;
+    height: 27px;
+    background: #1f335d;
+    text-align: center;
+}
+.box a{
+    font-size: 10px;
+    color: white;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.tops-widget{
+    width: 100%;
+    height: 400px;
+    background-color: #e8eeef;
+    text-align: center;
+}
+.title-widget h5{
+    color: #1f335d;
+    font-weight: bold;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.sub-title{
+    margin: 0 auto;
+    width: 70%;
+    column-count: 3;
+    column-gap: 110px;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: #c8cacb;
+    font-weight: bold;
+
+}
+.sub-title h3{
+    color: #c61f25;
+    font-size: 60px;
+}
+.sub-title p{
+    color: #353535;
+    font-size: 13px;
+    font-family: 'Fira Sans', sans-serif;
+}
